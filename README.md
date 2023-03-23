@@ -1,2 +1,2 @@
-## Repository for strong JAVA practice codes
+## Repository for stroring JAVA practice codes
 
