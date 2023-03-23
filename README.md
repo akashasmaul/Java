@@ -1,2 +1,2 @@
-## Repository for stroring JAVA practice codes
+## Repository for storing JAVA practice codes
 
