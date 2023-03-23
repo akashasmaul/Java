@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.InnerClasses_attribute.Info"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+</qualifiedTypeNameHistroy>
